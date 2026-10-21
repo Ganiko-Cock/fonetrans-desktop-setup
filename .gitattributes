@@ -1,0 +1,10 @@
+# Generated on 2026-11-05
+# Do not edit manually
+build/* linguist-vendored
+
+docs/* linguist-vendored
+*.yaml linguist-detectable=false
+themes/**/*.css linguist-detectable
+
+*.css linguist-detectable
+docs/**/*.html linguist-vendored
